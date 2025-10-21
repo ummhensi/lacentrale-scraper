@@ -64,3 +64,14 @@ tmp/
 
 # Chrome debug data
 .chrome-debug/
+
+# Playwright profile data
+.pw_profile/
+
+# Output files
+lacentrale_listings.xlsx
+lacentrale_listings.json
+
+# Test files
+test_*.py
+debug_*.py
