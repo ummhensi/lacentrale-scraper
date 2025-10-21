@@ -1,0 +1,13 @@
+# Core dependencies for La Centrale Scraper
+pandas>=1.5.0
+beautifulsoup4>=4.11.0
+playwright>=1.40.0
+openpyxl>=3.0.0
+
+# Optional: for better performance
+lxml>=4.9.0
+
+# Development dependencies (optional)
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=5.0.0
